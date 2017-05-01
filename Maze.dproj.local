@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.701,=C:\Users\delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.984,C:\Users\delphi\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\delphi\Desktop\maze\MainUnit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.678,=C:\Users\delphi\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.331,C:\Users\delphi\Documents\RAD Studio\Projects\Mazefunc.pas=C:\Users\delphi\Desktop\maze\Mazefunc.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.170,C:\Users\delphi\Desktop\미로찾기\maze\Drawfunc.pas=C:\Users\delphi\Desktop\미로찾기\maze\Mazefunc.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.731,C:\Users\delphi\Desktop\미로찾기\maze\stackfunc.pas=C:\Users\delphi\Desktop\미로찾기\maze\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.189,C:\Users\delphi\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\delphi\Desktop\maze\Maze.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.032,C:\Users\delphi\Desktop\미로찾기\maze\mazefunc.pas=C:\Users\delphi\Desktop\미로찾기\maze\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.984,C:\Users\delphi\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\delphi\Desktop\maze\MainUnit.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.928,C:\Users\delphi\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\delphi\Documents\RAD Studio\Projects\Mazefunc.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.268,=C:\Users\delphi\Desktop\미로찾기\maze\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.170,=C:\Users\delphi\Desktop\미로찾기\maze\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
