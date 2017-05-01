@@ -59,20 +59,20 @@ you can show 'maze' & 'orgmaze' 2D Array variable.
 i used this variable (maze) to prevent the entire data from changing.
  orgmaze is mean 'original maze data' ^^
  
-.
+
 Procedure mazeCopy();
  --> original maze data copy to 'maze'
  
-. 
+ 
 procedure getmazebytextfile();
  --> get text maze data by my application path/text.txt
 
-.
+
 Function movable(var Position : sPOS; var dir : integer): Boolean;
  --> Inspect the current location of the maze to see if the next location can be reached. 
  
  
-.
+
 Function moveto(var Position : sPOS; var dir : integer): sPOS;
  --> Move now position in maze
  
