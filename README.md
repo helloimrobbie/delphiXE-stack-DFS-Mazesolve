@@ -5,20 +5,6 @@ use Data Struct - STACK
 use DFS(Depth First Search) algorithm
 use IDE Delphi 10.1 Berlin.
 
-by  Robbie nam.
-
-
-im korean Student.
-
-its just my assignment Project.
-
-so poor.
-
-but im so effort.
- 
-
-
-
 
 How to use Function ?
 
